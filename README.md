@@ -30,3 +30,6 @@
 - 황서나 / 프론트엔드 개발 / 📧 ㅇ@gmail.com
 - 김정현 / 백엔드 개발, API 설계 / 📧 ㅇ@gmail.com
 - 장채원 / 백엔드 개발, API 설계 / 📧 ㅇ@gmail.com
+
+## ⚙️기술스택
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1756453933282?alt=media&token=cd12d61f-c09b-448c-b0f4-b1df1dfcf74b)](https://github.com/msdio/stackticon)
