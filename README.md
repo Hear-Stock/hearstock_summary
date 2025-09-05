@@ -36,7 +36,7 @@
 
 |          | <img alt="frontend" src="https://img.shields.io/badge/Frontend-3776AB?style=flat-square"> | <img alt="backend" src="https://img.shields.io/badge/Backend-29961D?style=flat-square"> | <img alt="sound" src="https://img.shields.io/badge/Sound-CF770F?style=flat-square"> |
 |----------|-----------|----------|-------|
-| Repo URL | [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>](https://github.com/Hear-Stock/hearstock-frontend) | [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>](https://github.com/Hear-Stock/hearstock-backend) | [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>]() |
+| Repo URL | [<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/>](https://github.com/Hear-Stock/hearstock-frontend) | [<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/>](https://github.com/Hear-Stock/hearstock-backend) | [<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/>]() |
 
 </div>
 
