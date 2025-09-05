@@ -11,6 +11,14 @@
 ## 프로젝트 결과물
 <img width="1339" height="634" alt="image" src="https://github.com/user-attachments/assets/1e2e9fe5-243d-4367-8248-b3c50220e602" />
 
+<div align="center">
+  
+|          | Front-end | Back-end | Sound |
+|----------|-----------|----------|-------|
+| Repo URL | [hear-stock-frontend](https://github.com/Hear-Stock/hearstock-frontend) | [hear-stock-backend](https://github.com/Hear-Stock/hearstock-backend) | [hear-stock-] |
+
+</div>
+
 <!--
 <div align="center" style="display: flex; gap: 10px">
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/c5673f2a-ff32-462d-b25f-dff1d75468de" />
@@ -37,11 +45,17 @@
 | 이름 | 김하진(팀장) | [김형준](https://github.com/HyeongJun02) | 황서나 | 김정현 | 장채원 |
 | 이메일 | hiaesin819@gmail.com | khj029956@gmail.com | abc@gmail.com | abc@gmail.com | abc@gmail.com |
 
+</div>
+
 ## ⚙️기술스택
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1756453933282?alt=media&token=cd12d61f-c09b-448c-b0f4-b1df1dfcf74b)](https://github.com/msdio/stackticon)
 
+<p/>
+
 ---
 
+<p/>
+  
 ## 개발 배경 및 목적
 <img width="1015" height="253" alt="image" src="https://github.com/user-attachments/assets/9da4084f-d81d-40c6-8675-389c51edb108" />
 (정리 중)
