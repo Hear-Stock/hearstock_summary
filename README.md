@@ -12,17 +12,8 @@
 
 <p/>
 
-## 프로젝트 결과물
+## 🟠 프로젝트 미리보기
 <img width="1339" height="634" alt="image" src="https://github.com/user-attachments/assets/1e2e9fe5-243d-4367-8248-b3c50220e602" />
-
-## GitHub Repository
-<div align="center">
-  
-|          | <img alt="frontend" src="https://img.shields.io/badge/Frontend-3776AB?style=flat-square"> | <img alt="backend" src="https://img.shields.io/badge/Backend-29961D?style=flat-square"> | <img alt="sound" src="https://img.shields.io/badge/Sound-CF770F?style=flat-square"> |
-|----------|-----------|----------|-------|
-| Repo URL | [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>](https://github.com/Hear-Stock/hearstock-frontend) | [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>](https://github.com/Hear-Stock/hearstock-backend) | [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>]() |
-
-</div>
 
 <!--
 <div align="center" style="display: flex; gap: 10px">
@@ -31,7 +22,25 @@
 </div>
 -->
 
-## 🏆수상 내역
+## 🟠 프로젝트 정보
+
+### 기술 스택
+<div align="center">
+
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1756453933282?alt=media&token=cd12d61f-c09b-448c-b0f4-b1df1dfcf74b)](https://github.com/msdio/stackticon)
+
+</div>
+
+### GitHub Repository
+<div align="center">
+
+|          | <img alt="frontend" src="https://img.shields.io/badge/Frontend-3776AB?style=flat-square"> | <img alt="backend" src="https://img.shields.io/badge/Backend-29961D?style=flat-square"> | <img alt="sound" src="https://img.shields.io/badge/Sound-CF770F?style=flat-square"> |
+|----------|-----------|----------|-------|
+| Repo URL | [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>](https://github.com/Hear-Stock/hearstock-frontend) | [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>](https://github.com/Hear-Stock/hearstock-backend) | [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>]() |
+
+</div>
+
+### 수상 내역
 <div align="center">
 
 | 수상일자 | 대회명 | 수상명 | 주최/주관 |
@@ -42,7 +51,7 @@
 
 </div>
 
-## 👥 멤버구성
+### 멤버 구성
 <div align="center">
 
 | 이름 | 파트 | 이메일 | GitHub |
@@ -55,34 +64,27 @@
 
 </div>
 
-## ⚙️기술스택
-[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1756453933282?alt=media&token=cd12d61f-c09b-448c-b0f4-b1df1dfcf74b)](https://github.com/msdio/stackticon)
+## 🟠 프로젝트 설명
 
-<p/>
-
----
-
-<p/>
-  
-## 개발 배경 및 목적
+### 개발 배경 및 목적
 <img width="1015" height="253" alt="image" src="https://github.com/user-attachments/assets/9da4084f-d81d-40c6-8675-389c51edb108" />
 (정리 중)
 
-## 주요 아이디어
+### 주요 아이디어
 <img width="1016" height="196" alt="image" src="https://github.com/user-attachments/assets/78cc257e-3fc0-4269-a44b-e079f7e89ae0" />
 (정리 중)
 
-## 주요 기능
+### 주요 기능
 <img width="1017" height="485" alt="image" src="https://github.com/user-attachments/assets/bdd9de5e-3d3d-4b81-8328-2aabc1e23412" />
 (정리 중)
 
-## 흐름도
+### 흐름도
 <img width="1346" height="343" alt="image" src="https://github.com/user-attachments/assets/07e359d3-64c5-4acf-995e-cc06cc41d36e" />
 
-## 구현 현황
+### 구현 현황
 <img width="1339" height="634" alt="image" src="https://github.com/user-attachments/assets/f3bf9b70-f97a-4919-80ba-ecd878008167" />
 (정리 중)
 
-## 기대효과 및 활용 범위
+### 기대효과 및 활용 범위
 <img width="1015" height="184" alt="image" src="https://github.com/user-attachments/assets/1ffad824-b9aa-479e-b14d-a39226655922" />
 (정리 중)
