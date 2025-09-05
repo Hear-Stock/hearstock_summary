@@ -18,9 +18,9 @@
 ## GitHub Repository
 <div align="center">
   
-|          | Front-end | Back-end | Sound |
+|          | <img alt="frontend" src="https://img.shields.io/badge/Frontend-3776AB?style=flat-square"> | <img alt="backend" src="https://img.shields.io/badge/Backend-29961D?style=flat-square"> | <img alt="sound" src="https://img.shields.io/badge/Sound-CF770F?style=flat-square"> |
 |----------|-----------|----------|-------|
-| Repo URL | [hear-stock-frontend](https://github.com/Hear-Stock/hearstock-frontend) | [hear-stock-backend](https://github.com/Hear-Stock/hearstock-backend) | [hear-stock-] |
+| Repo URL | [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>](https://github.com/Hear-Stock/hearstock-frontend) | [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>](https://github.com/Hear-Stock/hearstock-backend) | [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>]() |
 
 </div>
 
@@ -47,11 +47,11 @@
 
 | 이름 | 파트 | 이메일 | GitHub |
 |------|------|--------|--------|
-| 김하진 (팀장) | Frontend | hiaesin819@gmail.com | |
-| 김형준        | Frontend | khj029956@gmail.com | [HyeongJun02](https://github.com/HyeongJun02) |
-| 황서나        | Frontend | abc@gmail.com |  |
-| 김정현        | Backend  | abc@gmail.com |  |
-| 장채원        | Backend  | abc@gmail.com |  |
+| 김하진 (팀장) | <img alt="frontend" src="https://img.shields.io/badge/Frontend-3776AB?style=flat-square"> | hiaesin819@gmail.com | |
+| 김형준        | <img alt="frontend" src="https://img.shields.io/badge/Frontend-3776AB?style=flat-square"> | khj029956@gmail.com | [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>](https://github.com/HyeongJun02) |
+| 황서나        | <img alt="frontend" src="https://img.shields.io/badge/Frontend-3776AB?style=flat-square"> | abc@gmail.com |  |
+| 김정현        | <img alt="backend" src="https://img.shields.io/badge/Backend-29961D?style=flat-square">  | abc@gmail.com |  |
+| 장채원        | <img alt="backend" src="https://img.shields.io/badge/Backend-29961D?style=flat-square">  | abc@gmail.com |  |
 
 </div>
 
