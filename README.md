@@ -45,10 +45,13 @@
 ## 👥 멤버구성
 <div align="center">
 
-| 파트 | Front-end | Front-end | Front-end | Back-end | Back-end |
-|------|-----------|-----------|-----------|----------|----------|
-| 이름 | 김하진(팀장) | [김형준](https://github.com/HyeongJun02) | 황서나 | 김정현 | 장채원 |
-| 이메일 | hiaesin819@gmail.com | khj029956@gmail.com | abc@gmail.com | abc@gmail.com | abc@gmail.com |
+| 이름 | 파트 | 이메일 | GitHub |
+|------|------|--------|--------|
+| 김하진 (팀장) | Frontend | hiaesin819@gmail.com | |
+| 김형준        | Frontend | khj029956@gmail.com | [HyeongJun02](https://github.com/HyeongJun02) |
+| 황서나        | Frontend | abc@gmail.com |  |
+| 김정현        | Backend  | abc@gmail.com |  |
+| 장채원        | Backend  | abc@gmail.com |  |
 
 </div>
 
