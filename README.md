@@ -1,4 +1,8 @@
+<div align="center">
+<img width="200" alt="hear-stock-logo--light-grey" src="https://github.com/user-attachments/assets/47e5b0c2-56ee-4af4-a43c-8e9b1118b804" />
+</div>
 <h1 align="center">이어스톡, Hear-Stock</h1>
+
 <h3 align="center">비선형 그래프의 청각화, 사용자 의도 처리를 통한 저시력자 투자자의 투자 접근성 향상 어플리케이션</h3>
 
 <p align="center">
