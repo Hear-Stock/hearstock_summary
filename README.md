@@ -50,6 +50,7 @@
 | 2025.08. | 전국대학 소프트웨어 성과 공유 포럼 | 인기상 (참가자 투표 1위) | 부산광역시, 과학기술정보통신부, IITP / 동아대학교 소프트웨어혁신센터 |
 
 [2025 제2회 전국대학 소프트웨어 성과 공유포럼 - Youtube](https://youtu.be/aZ_lrGkuvoA?si=FTPjS0N9XALGYrzR)
+[실제 시각장애인 인터뷰 - Youtube](https://www.youtube.com/watch?v=2aX9ofm55pQ)
 
 </div>
 
