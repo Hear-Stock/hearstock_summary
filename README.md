@@ -48,6 +48,7 @@
 | 2025.08. | 전국대학 소프트웨어 성과 공유 포럼 | 부산광역시장상 (그랑프리 - 대상, 최종 1위) | 부산광역시, 과학기술정보통신부, IITP / 동아대학교 소프트웨어혁신센터 |
 | 2025.08. | 전국대학 소프트웨어 성과 공유 포럼 | 최우수상 (상위 4팀) | 부산광역시, 과학기술정보통신부, IITP / 동아대학교 소프트웨어혁신센터 |
 | 2025.08. | 전국대학 소프트웨어 성과 공유 포럼 | 인기상 (참가자 투표 1위) | 부산광역시, 과학기술정보통신부, IITP / 동아대학교 소프트웨어혁신센터 |
+| 2025.11. | 대학생 논문 경진대회 논문우수상 | 장려상 | 한국 방송/미디어 공학회 |
 
 <p>[2025 제2회 전국대학 소프트웨어 성과 공유포럼 - Youtube](https://youtu.be/aZ_lrGkuvoA?si=FTPjS0N9XALGYrzR)</p>
 <p>[실제 시각장애인 인터뷰 - Youtube](https://www.youtube.com/watch?v=2aX9ofm55pQ)</p>
@@ -70,22 +71,25 @@
 ## 🟠 프로젝트 설명
 
 ### 개발 배경 및 목적
-<img width="1015" height="253" alt="image" src="https://github.com/user-attachments/assets/9da4084f-d81d-40c6-8675-389c51edb108" />
+<img width="1054" height="93" alt="image" src="https://github.com/user-attachments/assets/3ea48e33-ad34-42b4-acde-7cc81c6445f9" />
 (정리 중)
 
 ### 주요 아이디어
-<img width="1016" height="196" alt="image" src="https://github.com/user-attachments/assets/78cc257e-3fc0-4269-a44b-e079f7e89ae0" />
+<img width="514" height="292" alt="image" src="https://github.com/user-attachments/assets/22acab36-148a-45a7-ab90-c62ecaa81a66" />
 (정리 중)
 
 ### 주요 기능
-<img width="1017" height="485" alt="image" src="https://github.com/user-attachments/assets/bdd9de5e-3d3d-4b81-8328-2aabc1e23412" />
+<img width="514" height="292" alt="image" src="https://github.com/user-attachments/assets/a14fe4bf-b05b-429d-a498-7ee0de86835c" />
+<img width="514" height="292" alt="image" src="https://github.com/user-attachments/assets/d3281701-f842-4e5e-ad2d-5f02adbb263a" />
+<img width="514" height="293" alt="image" src="https://github.com/user-attachments/assets/10ebbddb-9a87-4611-b20e-35025861e01c" />
+<img width="513" height="292" alt="image" src="https://github.com/user-attachments/assets/e9ad5ef8-c039-467f-8b9d-ac618f6f3461" />
 (정리 중)
 
 ### 흐름도
 <img width="1346" height="343" alt="image" src="https://github.com/user-attachments/assets/07e359d3-64c5-4acf-995e-cc06cc41d36e" />
 
 ### 구현 현황
-<img width="1339" height="634" alt="image" src="https://github.com/user-attachments/assets/f3bf9b70-f97a-4919-80ba-ecd878008167" />
+<img width="512" height="423" alt="image" src="https://github.com/user-attachments/assets/26c539f6-ee2c-4485-b481-f567313f15fc" />
 (정리 중)
 
 ### 기대효과 및 활용 범위
