@@ -1,20 +1,30 @@
 <div align="center">
-  <img width="200" alt="Hear-Stock Logo" src="https://github.com/user-attachments/assets/47e5b0c2-56ee-4af4-a43c-8e9b1118b804" />
-
-  <h1>이어스톡 (Hear-Stock)</h1>
-
+  <br />
+  <img src="https://github.com/user-attachments/assets/47e5b0c2-56ee-4af4-a43c-8e9b1118b804" width="200" alt="Hear-Stock Logo"/>
+  <br />
+  
+  <h1>🎧 이어스톡 (Hear-Stock)</h1>
+  
   <h3>사용자 의도 처리 및 비선형 그래프의 청각화를 통한<br/>저시력 투자자 접근성 향상 솔루션</h3>
+  
+  <br/>
 
   <p>
-    <b>"주식의 흐름을 듣다, 투자의 눈을 뜨다"</b><br/>
-    음성 기반 주식 정보 제공 및 청각적 시각화(Sonification) 플랫폼
+    <b>"주식의 흐름을 듣다, 투자의 눈을 뜨다"</b>
+    <br/>
+    <i>음성 기반 주식 정보 제공 및 청각적 시각화(Sonification) 플랫폼</i>
   </p>
 
-  <img src="https://img.shields.io/badge/Version-1.0.0-orange?style=flat-square" alt="Version">
-  <img src="https://img.shields.io/badge/Platform-Mobile-blue?style=flat-square" alt="Platform">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License">
+  <br/>
 
-  <br/><br/>
+  <div style="display: flex; gap: 10px; justify-content: center;">
+    <img src="https://img.shields.io/badge/Version-1.0.0-FF6F00?style=for-the-badge&logo=google-play&logoColor=white" alt="Version">
+    <img src="https://img.shields.io/badge/Platform-Mobile-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Platform">
+    <img src="https://img.shields.io/badge/License-MIT-4CAF50?style=for-the-badge&logo=git&logoColor=white" alt="License">
+  </div>
+  
+  <br/>
+  <hr/>
 </div>
 
 ## 🏆 수상 내역 (Awards)
@@ -94,11 +104,11 @@
 
 <div align="center">
 
-<a href="https://github.com/msdio/stackticon">
+<!-- <a href="https://github.com/msdio/stackticon">
   <img src="https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1756453933282?alt=media&token=cd12d61f-c09b-448c-b0f4-b1df1dfcf74b" alt="stackticon" />
 </a>
 
-<br/>
+<br/> -->
 
 | 구분 | 기술 (Skills) |
 |:---:|---|
@@ -110,9 +120,9 @@
 ### 📂 Repository
 <div align="center">
 
-| <img src="https://img.shields.io/badge/Frontend-3776AB?style=flat-square&logo=react&logoColor=white"> | <img src="https://img.shields.io/badge/Backend-29961D?style=flat-square&logo=springboot&logoColor=white"> | <img src="https://img.shields.io/badge/AI_&_Sound-CF770F?style=flat-square&logo=python&logoColor=white"> |
-|:---:|:---:|:---:|
-| [👉 Frontend Repo](https://github.com/Hear-Stock/hearstock-frontend) | [👉 Backend Repo](https://github.com/Hear-Stock/hearstock-backend) | [👉 Sound/AI Repo]() |
+| <img src="https://img.shields.io/badge/Frontend-3776AB?style=flat-square&logo=react&logoColor=white"> | <img src="https://img.shields.io/badge/Backend-29961D?style=flat-square&logo=springboot&logoColor=white"> |
+|:---:|:---:|
+| [👉 Frontend Repo](https://github.com/Hear-Stock/hearstock-frontend) | [👉 Backend Repo](https://github.com/Hear-Stock/hearstock-backend) |
 
 </div>
 
